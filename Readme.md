@@ -1,6 +1,6 @@
 ### Olá, Sou Iann Leles 
 
-🧑‍💼 Hoje trabalho com .Net Framework e .Net Core <br>
+🧑‍💼 Hoje trabalho com .Net Framework e .Net Core Junior <br>
 🎓 Sou estudante de Ciências da Computação pela Universidade Nove de Julho - SP <br>
 📽️ Contribuo com projetos Open Sorce acadêmicos <br>
 📙 Participo de mentorias .Net 6 <br>
