@@ -5,7 +5,7 @@
 🎓 Inteligência Artificial e Machine Learning - Universidade Nove de Julho - SP <br>
 📽️ Contribuo com projetos Open Sorce acadêmicos <br>
 📙 Participo de mentorias .Net 8 <br>
-📧 Email: iann.marcos97@gmail.com <br>
+📧 Email: iann.marcos.im@gmail.com <br>
 <hr>
 
 ### Linguagens e ferramentas:
