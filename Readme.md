@@ -4,7 +4,6 @@
 🎓 Ciências da Computação - Universidade Nove de Julho - SP <br>
 🎓 Inteligência Artificial e Machine Learning - Universidade Nove de Julho - SP <br>
 📽️ Contribuo com projetos Open Sorce acadêmicos <br>
-📙 Participo de mentorias .Net 8 <br>
 📧 Email: iann.marcos.im@gmail.com <br>
 <hr>
 
@@ -33,3 +32,4 @@
 ##
 
  <a href="https://www.linkedin.com/in/iann-leles-590311196" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
